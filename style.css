@@ -1,0 +1,37 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Pacifico&display=swap');
+* {
+    margin: 0;
+    font-family: <style> @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); </style>;
+}
+.main-title {
+    color: rgb(255, 255, 255);
+    font-family: Pacifico;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 80px;
+    margin-bottom: 10px;
+}
+.banner {
+    background-image: url(../new-year-new-me1/images/banner3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 175px;
+    text-align: right;
+}
+.primary-text {
+    color: #fff;
+    font-weight: 15px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    background: #786ff1;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 12px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
